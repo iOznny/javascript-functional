@@ -27,6 +27,6 @@ No se permite la modificación de los dados.
 - Coercion
 - Implicit Binding
 - Explicit Binding
-- new Binding
+- New Binding
 - Event Loop
 - Self
