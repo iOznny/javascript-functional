@@ -1,6 +1,5 @@
 /**
  * New Binding
- * 
 */
 
 function Vehicle(model, color) {
